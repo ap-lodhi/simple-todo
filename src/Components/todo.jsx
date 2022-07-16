@@ -30,6 +30,7 @@ const Todo=()=>{
         <div className="main_div">
         <div className="center_div">
             <br />
+            <p>You can add your task here </p>
             <h1>TODO List</h1>
             <br />
             <input type='text' placeholder='Add a Items' onChange={itemEvent}
