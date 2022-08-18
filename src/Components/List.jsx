@@ -11,6 +11,7 @@ const List =(props)=>{
         x
         </button> 
         <li>{props.text}</li>
+        
 
         </div>
         </>
