@@ -6,8 +6,8 @@
 Tech Stack : HTML | CSS | JavaScript |react useEffect
 
 Features :
+</br>
 ---> Add Task
-
 ---> Delete Task
 
 
